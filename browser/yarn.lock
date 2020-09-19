@@ -1274,10 +1274,10 @@ mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0:
   dependencies:
     minimist "0.0.8"
 
-morphdom@^2.3.2:
-  version "2.5.4"
-  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.5.4.tgz#f653ce4e1ea80e0820594ebe3a64404558ee8cc4"
-  integrity sha512-vM2obMO7CUQ6ocF81Gd1nVDu4ovpZV71ib1/AzmxBI5oN9oUjQcVaxgFOJvJUSyeTJoDCWJCp/GAQJLmT7R+nQ==
+morphdom@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.6.1.tgz#e868e24f989fa3183004b159aed643e628b4306e"
+  integrity sha512-Y8YRbAEP3eKykroIBWrjcfMw7mmwJfjhqdpSvoqinu8Y702nAwikpXcNFDiIkyvfCLxLM9Wu95RZqo4a9jFBaA==
 
 ms@2.0.0:
   version "2.0.0"
